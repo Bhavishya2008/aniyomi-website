@@ -45,7 +45,7 @@ Once you've added a repository, go to <nav to="extensions"> and refresh the exte
 
 You can now tap the download button next to extensions to install them.
 
-> You may need to [enable third-party installations](/docs/faq/browse/extensions#enabling-third-party-installations).
+> You may need to [enable third-party .
 
 == Manual extensions
 Extensions can be manually installed through `.apk` files.
